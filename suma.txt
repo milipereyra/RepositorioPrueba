@@ -2,8 +2,6 @@ int a;
 int b;
 int suma;
 
-<<<<<<< HEAD
 suma = a + b;
 
 print(suma);
->>>>>>> rama-A
