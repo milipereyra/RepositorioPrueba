@@ -1,0 +1,7 @@
+int a;
+int b;
+int suma;
+
+suma = a - b;
+
+print(suma);
